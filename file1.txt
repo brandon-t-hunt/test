@@ -2,6 +2,9 @@ Hey, world
 
 don't change
 
-maybe just a little 
+maybe (not definitely) just a little 
+this part was buggy
+this is a new feature - BUG FIX
 
-this is a new feature
+bug fix!
+x
