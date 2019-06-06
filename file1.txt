@@ -3,10 +3,11 @@ Hey, world
 don't change
 
 maybe (not definitely) just a little 
-this part was buggy
+
 this is a new feature - BUG FIX
 
 
 bug fix!
 this is a new feat
 
+everything resolved, world
